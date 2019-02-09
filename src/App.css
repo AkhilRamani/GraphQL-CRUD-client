@@ -30,3 +30,10 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar li{
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 16px;
+}
